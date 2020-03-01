@@ -1,0 +1,27 @@
+.jumbotron{
+    background-color: rgb(92, 205, 224);
+    color: rgb(185, 44, 51);
+    text-align: center;
+}
+.active {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+.nav{
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    font-size: 18px;
+}
+p{
+    text-align: center;
+    font-size: 250%;
+}
+.log {
+        position: absolute;
+        top: 8px;
+        right: 16px;
+        font-size: 18px;
+    }
